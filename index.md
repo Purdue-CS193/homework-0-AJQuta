@@ -39,3 +39,5 @@ _(I do not own any of these sites or pictures)_
 1. [Chicken Tikka Masala](https://cafedelites.com/chicken-tikka-masala/)
 2. [Teriyaki Steak and Rice](https://www.marionskitchen.com/teriyaki-steak-rice-bowl/)
 3. [Buffalo Chicken Pizza](https://www.ownyoureating.com/blog/low-calorie-buffalo-chicken-pizza-recipe/)
+
+I also am a big fan of the _jekyll-theme-hacker_ choice. I think it's pretty cool.
