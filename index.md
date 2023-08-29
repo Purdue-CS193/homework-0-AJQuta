@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### My Favorite Food
+
+This is a simple list of my favorite food that I've tried with links to articles/pictures of each. _(I do not own any of these sites or pictures)_
+
+1. [Chicken Tikka Masala](https://cafedelites.com/chicken-tikka-masala/)
+2. [Teriyaki Steak and Rice](https://www.marionskitchen.com/teriyaki-steak-rice-bowl/)
+3. [Buffalo Chicken Pizza](https://www.ownyoureating.com/blog/low-calorie-buffalo-chicken-pizza-recipe/)
