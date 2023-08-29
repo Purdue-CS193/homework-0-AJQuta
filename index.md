@@ -2,16 +2,16 @@
 
 Here is a bulleted list of some of my favorite things about CS193 and some things I hope to learn more about in CS.
 
-- Learning about the Terminal
-- Filesystem on Terminal
-- Terminal shell scripts
-- Setting up Environment in Terminal
-- Learning how to use GitHub
-- Integrating GitHub with IDEs (like VSCode)
-- Learning commandline Git
-- Learning LaTeX
-- How to Make Use of Docker
-- Markdown
+- Learning about the **Terminal**
+- **Filesystem** on Terminal
+- Terminal **shell scripts**
+- Setting up **Environment** in Terminal
+- Learning how to use **GitHub**
+- Integrating **GitHub** with **IDEs** (like VSCode)
+- Learning **command line Git**
+- Learning **LaTeX**
+- How to Make Use of **Docker**
+- **Markdown**
 
 ```markdown
 Syntax highlighted code block
