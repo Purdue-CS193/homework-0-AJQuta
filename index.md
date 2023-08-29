@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+# Adel Quta's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here is a bulleted list of some of my favorite things about CS193 and some things I hope to learn more about in CS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Learning about the Terminal
+- Filesystem on Terminal
+- Terminal shell scripts
+- Setting up Environment in Terminal
+- Learning how to use GitHub
+- Integrating GitHub with IDEs (like VSCode)
+- Learning commandline Git
+- Learning LaTeX
+- How to Make Use of Docker
+- Markdown
 
 ```markdown
 Syntax highlighted code block
@@ -26,19 +31,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
 ### My Favorite Food
 
-This is a simple list of my favorite food that I've tried with links to articles/pictures of each. _(I do not own any of these sites or pictures)_
+I know this isn't really part of the assignment, but here is a simple list of my favorite food that I've tried with links to articles/pictures of each.
+_(I do not own any of these sites or pictures)_
 
 1. [Chicken Tikka Masala](https://cafedelites.com/chicken-tikka-masala/)
 2. [Teriyaki Steak and Rice](https://www.marionskitchen.com/teriyaki-steak-rice-bowl/)
